@@ -1,4 +1,4 @@
 BOT_TOKEN = "8840446359:AAGqIhRake4x7-NjRf57FRONWIx5Ba6F2GE"
-ADMIN_IDS = [7399101034]  # o'zgartiring
+ADMIN_IDS = [1782402600]  # o'zgartiring
 REQUIRED_CHANNELS = []
 DB_FILE = "database.json"
