@@ -1,0 +1,301 @@
+{
+  "users": {
+    "8105737095": {
+      "user_id": 8105737095,
+      "username": "TATU_ATTT",
+      "lang": "uz",
+      "name": "abubakr",
+      "surname": "raimjonv",
+      "phone": "+998912887529",
+      "registered": true,
+      "referred_by": null,
+      "referral_bonus": 0.0,
+      "referral_pending": 0.0,
+      "referral_earned_total": 0.0,
+      "referral_card": "8600123456789123"
+    },
+    "7399101034": {
+      "user_id": 7399101034,
+      "username": "AlphaChangeSupport",
+      "lang": "uz",
+      "name": "Alpha brat",
+      "surname": "Valiyev Diyorbek",
+      "phone": "998771621998",
+      "registered": true,
+      "referred_by": null,
+      "referral_bonus": 0.0,
+      "referral_pending": 0.0,
+      "referral_earned_total": 0.0,
+      "referral_card": ""
+    },
+    "5882026611": {
+      "user_id": 5882026611,
+      "username": "Orifjonov_2007",
+      "lang": "uz",
+      "name": "Ali",
+      "surname": "Yunus",
+      "phone": "998888610337",
+      "registered": true,
+      "referred_by": null,
+      "referral_bonus": 0.0,
+      "referral_pending": 0.0,
+      "referral_earned_total": 0.0,
+      "referral_card": ""
+    },
+    "7779099955": {
+      "user_id": 7779099955,
+      "username": "abubakr_dev",
+      "lang": "uz",
+      "name": "abubakr",
+      "surname": "raimjonov",
+      "phone": "+998773877383",
+      "registered": true,
+      "referred_by": 8105737095,
+      "referral_bonus": 0.0,
+      "referral_pending": 0.0,
+      "referral_earned_total": 0.0,
+      "referral_card": ""
+    }
+  },
+  "channels": [
+    {
+      "channel_id": -1003538943719,
+      "channel_link": "https://t.me/+nJ28m05eubUzMmY6",
+      "channel_name": "Movie"
+    }
+  ],
+  "orders": {
+    "1001": {
+      "order_id": 1001,
+      "user_id": 8105737095,
+      "username": "TATU_ATTT",
+      "full_name": "VS",
+      "from_id": "uzcard",
+      "to_id": "usdt_trc20",
+      "from_name": "UZCARD",
+      "to_name": "USDT (Trc20)",
+      "send_amount": 269360.27,
+      "recv_amount": 20.0,
+      "sender_card": "8600123456789123",
+      "receiver_card": "8600123456789123",
+      "status": "completed",
+      "created_at": "09.03.2026 22:45"
+    },
+    "1002": {
+      "order_id": 1002,
+      "user_id": 8105737095,
+      "username": "TATU_ATTT",
+      "full_name": "VS",
+      "from_id": "uzcard",
+      "to_id": "usdt_trc20",
+      "from_name": "UZCARD",
+      "to_name": "USDT (Trc20)",
+      "send_amount": 100000.0,
+      "recv_amount": 7.425,
+      "sender_card": "8600123456789123",
+      "receiver_card": "8600123456789123",
+      "status": "completed",
+      "created_at": "09.03.2026 23:02"
+    },
+    "1003": {
+      "order_id": 1003,
+      "user_id": 7399101034,
+      "username": "AlphaChangeSupport",
+      "full_name": "AlphaChange [Support]",
+      "from_id": "humo",
+      "to_id": "litecoin",
+      "from_name": "HUMO",
+      "to_name": "LITECOIN",
+      "send_amount": 50000000.0,
+      "recv_amount": 75.32951,
+      "sender_card": "9860030348007201",
+      "receiver_card": "HxhhUy24625gHgsiuzfrxgiyosrt",
+      "status": "completed",
+      "created_at": "10.03.2026 00:31"
+    },
+    "1004": {
+      "order_id": 1004,
+      "user_id": 7399101034,
+      "username": "AlphaChangeSupport",
+      "full_name": "AlphaChange [Support]",
+      "from_id": "humo",
+      "to_id": "uzcard",
+      "from_name": "HUMO",
+      "to_name": "UZCARD",
+      "send_amount": 10000.0,
+      "recv_amount": 9950.0,
+      "sender_card": "9696856775858585",
+      "receiver_card": "6858585858586",
+      "status": "receipt_sent",
+      "created_at": "11.03.2026 23:37"
+    },
+    "1005": {
+      "order_id": 1005,
+      "user_id": 8105737095,
+      "username": "TATU_ATTT",
+      "full_name": "VS",
+      "from_id": "toncoin",
+      "to_id": "dogecoin",
+      "from_name": "TONCOIN",
+      "to_name": "DOGECOIN",
+      "send_amount": 1.0,
+      "recv_amount": 13.09974,
+      "sender_card": "adasdasdsadwasdsadqwe21edwq",
+      "receiver_card": "23edwqdsasdewdsacasd32e",
+      "status": "receipt_sent",
+      "created_at": "13.03.2026 19:32"
+    },
+    "1006": {
+      "order_id": 1006,
+      "user_id": 8105737095,
+      "username": "TATU_ATTT",
+      "full_name": "VS",
+      "from_id": "uzcard",
+      "to_id": "humo",
+      "from_name": "UZCARD",
+      "to_name": "HUMO",
+      "send_amount": 10000.0,
+      "recv_amount": 9950.0,
+      "sender_card": "8600123456789123",
+      "receiver_card": "8600123456789123",
+      "payment_destination": "8600 1666 0393 7029",
+      "status": "completed",
+      "created_at": "13.03.2026 19:41",
+      "receipt_sent_at": "13.03.2026 19:41",
+      "updated_at": "13.03.2026 19:42"
+    },
+    "1007": {
+      "order_id": 1007,
+      "user_id": 7779099955,
+      "username": "abubakr_dev",
+      "full_name": "Anonim",
+      "from_id": "uzcard",
+      "to_id": "humo",
+      "from_name": "UZCARD",
+      "to_name": "HUMO",
+      "send_amount": 14000.0,
+      "recv_amount": 13930.0,
+      "sender_card": "8600123456789123",
+      "receiver_card": "8600123456789123",
+      "payment_destination": "8600 1666 0393 7029",
+      "status": "completed",
+      "created_at": "13.03.2026 19:58",
+      "receipt_sent_at": "13.03.2026 19:58",
+      "receipt_type": "photo",
+      "receipt_file_id": "AgACAgIAAxkBAAIMTWm0JgF1HdaqWJRsgCV8dSDBofSyAAJMFmsbdL6hSVD4PyFpjuc8AQADAgADbQADOgQ",
+      "receipt_file_name": "",
+      "updated_at": "13.03.2026 19:58"
+    },
+    "1008": {
+      "order_id": 1008,
+      "user_id": 7779099955,
+      "username": "abubakr_dev",
+      "full_name": "Anonim",
+      "from_id": "humo",
+      "to_id": "bnb",
+      "from_name": "HUMO",
+      "to_name": "Bnb (BNB)",
+      "send_amount": 111111.0,
+      "recv_amount": 0.013566,
+      "sender_card": "8600123456789123",
+      "receiver_card": "tr3e23r4tye31ergtte3",
+      "payment_destination": "9860 0000 0000 0000",
+      "status": "completed",
+      "created_at": "13.03.2026 20:10",
+      "receipt_sent_at": "13.03.2026 20:10",
+      "receipt_type": "photo",
+      "receipt_file_id": "AgACAgIAAxkBAAIMTWm0JgF1HdaqWJRsgCV8dSDBofSyAAJMFmsbdL6hSVD4PyFpjuc8AQADAgADbQADOgQ",
+      "receipt_file_name": "",
+      "updated_at": "13.03.2026 20:10"
+    }
+  },
+  "live_rates": {
+    "usdt_trc20": {
+      "usd_price": 1.0,
+      "usd_uzs": 12102.39,
+      "raw_uzs": 12102,
+      "sell_rate": 12102,
+      "buy_rate": 12102
+    },
+    "usdt_bep20": {
+      "usd_price": 1.0,
+      "usd_uzs": 12102.39,
+      "raw_uzs": 12102,
+      "sell_rate": 12102,
+      "buy_rate": 12102
+    },
+    "binance_p2p": {
+      "usd_price": 661.5,
+      "usd_uzs": 12102.39,
+      "raw_uzs": 8005731,
+      "sell_rate": 8005731,
+      "buy_rate": 8005731
+    },
+    "tron": {
+      "usd_price": 0.2897,
+      "usd_uzs": 12102.39,
+      "raw_uzs": 3506,
+      "sell_rate": 3506,
+      "buy_rate": 3506
+    },
+    "sui": {
+      "usd_price": 1.0126,
+      "usd_uzs": 12102.39,
+      "raw_uzs": 12255,
+      "sell_rate": 12255,
+      "buy_rate": 12255
+    },
+    "bnb": {
+      "usd_price": 661.5,
+      "usd_uzs": 12102.39,
+      "raw_uzs": 8005731,
+      "sell_rate": 8005731,
+      "buy_rate": 8005731
+    },
+    "polygon": {
+      "usd_price": 0.3794,
+      "usd_uzs": 12102.39,
+      "raw_uzs": 4592,
+      "sell_rate": 4592,
+      "buy_rate": 4592
+    },
+    "solana": {
+      "usd_price": 89.37,
+      "usd_uzs": 12102.39,
+      "raw_uzs": 1081591,
+      "sell_rate": 1081591,
+      "buy_rate": 1081591
+    },
+    "litecoin": {
+      "usd_price": 55.28,
+      "usd_uzs": 12102.39,
+      "raw_uzs": 669020,
+      "sell_rate": 669020,
+      "buy_rate": 669020
+    },
+    "dogecoin": {
+      "usd_price": 0.09781,
+      "usd_uzs": 12102.39,
+      "raw_uzs": 1184,
+      "sell_rate": 1184,
+      "buy_rate": 1184
+    },
+    "toncoin": {
+      "usd_price": 1.315,
+      "usd_uzs": 12102.39,
+      "raw_uzs": 15915,
+      "sell_rate": 15915,
+      "buy_rate": 15915
+    }
+  },
+  "last_rate_update": "13.03.2026 20:57",
+  "payment_cards": {
+    "uzcard": "8600 1666 0393 7029",
+    "humo": "9860 0000 0000 0000",
+    "usdt_trc20": "—"
+  },
+  "referral_settings": {
+    "bonus_per_completed_order": 1.0,
+    "min_withdraw": 10000.0
+  }
+}
